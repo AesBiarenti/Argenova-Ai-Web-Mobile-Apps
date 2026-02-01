@@ -1,5 +1,3 @@
-# STAJ22002
-
 Bu depo, iki ayrı uygulama ve toplamda 3 projeyi bir arada barındırıyor;
 
 -   argenova-mobile-app klasörü: Flutter mobil uygulaması (chat_llm_app) ve ilgili Flask API (flask_api) olmak üzere iki proje içerir ve mobil uygulama için hazırlanmıştır.
